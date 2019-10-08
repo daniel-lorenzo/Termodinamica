@@ -16,7 +16,6 @@ Se ofrece libremente, sin garantía.
 [Clase prática 5](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p05.ipynb)   
 [Clase prática 6](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p06.ipynb)   
 [Clase prática 7](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p07.ipynb)   
-[Clase prática 8](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p08.ipynb)   
 
 En construcción . . .
 
