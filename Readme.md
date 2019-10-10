@@ -16,10 +16,16 @@ Se ofrece libremente, sin garantía.
 [Clase prática 5](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p05.ipynb)   
 [Clase prática 6](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p06.ipynb)   
 [Clase prática 7](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p07.ipynb)   
+[Clase prática 8](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p08.ipynb)
 
 En construcción . . .
 
-Teoría Resumen:
+Teoría:
+
+* [<<< Segundo Principio de la Termodinámica >>>](http://laplace.us.es/wiki/index.php/Segundo_Principio_de_la_Termodin%C3%A1mica)
+* [<<< Entropía >>>](http://laplace.us.es/wiki/index.php/Entrop%C3%ADa)
+
+Varios:
 
 [Segundo Principio de la termodinámica](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/2do_Principio.ipynb)    
 [Cambio de entropía de gases ideales](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/Cambio_entropia_gases.ipynb)   
