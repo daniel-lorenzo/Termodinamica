@@ -21,7 +21,7 @@ Se ofrece libremente, sin garantía.
 ## Parciales
 
 [2do Parcial t2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/2doParcial2.ipynb)       
-[2do Parcial t3](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/2doParcial3.ipynb)
+
 
 En construcción . . .
 
