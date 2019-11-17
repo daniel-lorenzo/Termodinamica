@@ -18,10 +18,13 @@ Se ofrece libremente, sin garantía.
 [Clase prática 7](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p07.ipynb)   
 [Clase prática 8](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p08.ipynb)
 
-## Parciales
+## Modelos de parcial
 
 [2do Parcial t2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/2doParcial2.ipynb)       
 
+## Modelos de final
+
+[Modelo 1 - clase teoría](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/clase-e1.ipynb)
 
 En construcción . . .
 
