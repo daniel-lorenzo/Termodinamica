@@ -26,7 +26,8 @@ Se ofrece libremente, sin garantía.
 
 [Modelo 1 - clase teoría](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/clase-e1.ipynb)     
 [Modelo 2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final2.ipynb)        
-[Modelo 3](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final3.ipynb)
+[Modelo 3](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final3.ipynb)       
+[Modelo 4](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final4.ipynb)         
 
 En construcción . . .
 
