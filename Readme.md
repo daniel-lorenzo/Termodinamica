@@ -19,9 +19,7 @@ Se ofrece libremente, sin garantía.
 [Clase prática 7.2](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p72.ipynb)     
 [Clase prática 8](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p08.ipynb)      
 [Clase prática 9](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p09.ipynb)    
-[Clase prática 10](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p10.ipynb)     
-[Clase prática 11](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p11.ipynb)    
-[Clase prática 12](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/p12.ipynb)    
+
 
 ## Modelos de parcial
 
