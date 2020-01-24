@@ -33,7 +33,7 @@ Se ofrece libremente, sin garantía.
 [Modelo 3](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final3.ipynb)       
 [Modelo 4](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final4.ipynb)         
 [Modelo 5](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final5.ipynb)       
-
+[Modelo - clase](https://nbviewer.jupyter.org/github/daniel-lorenzo/Termodinamica/blob/master/final_termo_clase.ipynb)      
 En construcción . . .
 
 Teoría:
